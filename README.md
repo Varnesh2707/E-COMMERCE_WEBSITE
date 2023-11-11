@@ -1,10 +1,10 @@
 # E-COMMERCE_WEBSITE
-Department of Computer Science and Engineering
+
 SOFTWARE
 REQUIREMENTS
 SPECIFICATION
 For
-E-commerce website
+E-COMMERCE WEBSITE
 
 Prepared by:-
 
